@@ -1,9 +1,4 @@
 # PersianTweets
-Assignment 2 report by Kavan Alipanahi 
-ID: 400422136
-
-
-1. Persian Tweets
 
 
 1 Introduction
